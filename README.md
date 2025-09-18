@@ -18,5 +18,22 @@ The dashboard provides a consolidated view of employee data, enabling HR teams a
 ## 🖼️ Dashboard Previews
 
 ### Overview Dashboard
-![HR Dashboard Overview](dash.png)
+![HR Dashboard Overview](Dash.png)
+
+Repo Structure
+  ├── HR Dashboard.twbx  
+  ├── images/   
+  │   ├── Dash.png
+  │   └── Info.png
+  └── README.md             
+
+---
+
+## 📊 Insights Gained
+
+- Departments with the highest attrition.  
+- Demographic patterns in hiring and retention.  
+- Performance distribution across teams.  
+- Trends in recruitment and workforce growth.
+- Gender distribution across various aspects (salary, education, department, etc...)
 
