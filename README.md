@@ -18,7 +18,8 @@ The dashboard provides a consolidated view of employee data, enabling HR teams a
 ## 🖼️ Dashboard Previews
 
 ### Overview Dashboard
-![HR Dashboard Overview](Dash.png)
+![HR Dashboard Overview](images/Dash.png)
+![HR Dashboard Overview](images/info.png)
 
     Repo Structure
       ├── HR Dashboard.twbx  
